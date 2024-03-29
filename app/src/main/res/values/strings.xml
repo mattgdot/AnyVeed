@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnyVeed</string>
+
+    <string name="homescreen_name">Home</string>
+    <string name="downloadsscreen_name">Downloads</string>
+    <string name="morescreen_name">More</string>
+</resources>
